@@ -6,10 +6,11 @@ Welcome to **poc-hub**, a collection of Proofs of Concept (POCs) showcasing my t
 
 ## 🚀 Technologies Covered
 
-- **JavaScript** (Node.js, React)
-- **Java** (Spring Boot, JPA)
-- **SQL** (MySQL, PostgreSQL)
-- **Other Technologies** (Prisma, Angular, Postgis etc.)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) **JavaScript** (Node.js, React)
+- ![Java](https://img.shields.io/badge/Java-17-blue) **Java** (Spring Boot, JPA)
+- ![Python](https://img.shields.io/badge/Python-3.8-blue) **Python** (Flask, Django)
+- ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-lightblue) **SQL** (MySQL, PostgreSQL)
+- ![Prisma](https://img.shields.io/badge/Prisma-ORM-blueviolet) **Other Technologies** (Prisma, Angular, etc.)
 
 ---
 
